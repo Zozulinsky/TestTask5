@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">TestTask.5</string>
+    <string name="label_city"><b>Город: </b></string>
+    <string name="label_type_city"><b>Размер города: </b></string>
+
+            <!--Диалоговое окно Добавить-->
+    <string name="label_input_data"><b>Заполните все поля</b></string>
+    <string name="label_input_temp">Введите температуру каждого месяца</string>
+    <string name="jan"><b>Январь</b></string>
+    <string name="feb"><b>Февраль</b></string>
+    <string name="mar"><b>Март</b></string>
+    <string name="apr"><b>Апрель</b></string>
+    <string name="may"><b>Май</b></string>
+    <string name="jun"><b>Июнь</b></string>
+    <string name="jul"><b>Июль</b></string>
+    <string name="aug"><b>Август</b></string>
+    <string name="sep"><b>Сентябрь</b></string>
+    <string name="oct"><b>Октябрь</b></string>
+    <string name="nov"><b>Ноябрь</b></string>
+    <string name="dec"><b>Декабрь</b></string>
+    <string name="text_addbtn">Добавить</string>
+    <string name="text_cancelbtn">Отмена</string>
+            <!-- -->
+
+</resources>

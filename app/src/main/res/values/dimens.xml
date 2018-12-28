@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="elevation_fab">4dp</dimen>
+    <dimen name="paddingRight">15dp</dimen>
+    <dimen name="paddingTop">5dp</dimen>
+    <dimen name="paddingleft">15dp</dimen>
+    <dimen name="paddingBottom">5dp</dimen>
+    <dimen name="size_title_fragment_city">14sp</dimen>
+    <dimen name="size_text_fragment_city">12sp</dimen>
+</resources>
